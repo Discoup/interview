@@ -1,1 +1,3 @@
-# Discoup Interview
+![Discoup](./discoup.svg)
+
+# Interview
